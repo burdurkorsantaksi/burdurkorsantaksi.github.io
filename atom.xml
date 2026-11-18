@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Burdur Korsan Taksi | Isparta Havalimanı ve Salda Gölü</title>
+  <link href="https://burdurkorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://burdurkorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://burdurkorsantaksi.github.io/</id>
+  <updated>2026-11-18T23:51:34.000Z</updated>
+  <author><name>Burdur Korsan Taksi</name></author>
+  <entry>
+    <title>Burdur Korsan Taksi | Isparta Havalimanı ve Salda Gölü</title>
+    <link href="https://burdurkorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://burdurkorsantaksi.github.io/</id>
+    <updated>2026-11-18T23:51:34.000Z</updated>
+    <summary>Burdur korsan taksi hattı: Isparta Süleyman Demirel Havalimanı merkezden 32 km, Salda Gölü ve Yeşilova, Sagalassos, Bucak ve Gölhisar yolu. Ücret baştan.</summary>
+  </entry>
+</feed>
